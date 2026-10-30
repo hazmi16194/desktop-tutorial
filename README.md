@@ -66,6 +66,8 @@ Then message the bot `connect threads hazmi`, `connect tiktok hazmi`, and the sa
 - The first reply poll for an account only records a baseline – old comments never trigger notifications or auto-replies.
 - `CROSS_ACCESS=false` limits each of you to your own accounts.
 
+To run it on your own PC, see [docs/DEPLOY-PC.md](docs/DEPLOY-PC.md).
+
 ## Layout
 
 ```
