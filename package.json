@@ -1,0 +1,12 @@
+{
+  "name": "social-hq",
+  "version": "0.1.0",
+  "description": "Master social media manager for TikTok + Threads, controlled from WhatsApp",
+  "type": "module",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "start": "node src/index.js",
+    "demo": "DRY_RUN=1 node src/cli.js",
+    "test": "node --test \"test/*.test.js\""
+  }
+}
